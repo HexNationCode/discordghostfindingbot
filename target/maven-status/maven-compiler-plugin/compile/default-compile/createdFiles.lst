@@ -1,0 +1,5 @@
+org\spoopy\CommandManager.class
+org\spoopy\commands\Findghost.class
+org\spoopy\commands\Start.class
+org\spoopy\Main.class
+org\spoopy\api\SpoopApi.class

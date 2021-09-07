@@ -1,0 +1,116 @@
+{
+  "ghosts": {
+    "demon": {
+      "evidences": [
+        "freezing",
+        "fingerprints",
+        "writing"
+      ]
+    },
+    "banshee": {
+      "evidences": [
+        "ghostorbs",
+        "fingerprints",
+        "dots"
+      ]
+    },
+    "goryo": {
+      "evidences": [
+        "emf",
+        "fingerprints",
+        "dots"
+      ]
+    },
+    "hantu": {
+      "evidences": [
+        "fingerprints",
+        "ghostorbs",
+        "freezing"
+      ]
+    },
+    "jinn": {
+      "evidences": [
+        "emf",
+        "fingerprints",
+        "freezing"
+      ]
+    },
+    "mare": {
+      "evidences": [
+        "spiritbox",
+        "ghostorbs",
+        "writing"
+      ]
+    },
+    "myling": {
+      "evidences": [
+        "emf",
+        "fingerprints",
+        "writing"
+      ]
+    },
+    "oni": {
+      "evidences": [
+        "emf",
+        "freezing",
+        "dots"
+      ]
+    },
+    "phantom": {
+      "evidences": [
+        "spiritbox",
+        "fingerprints",
+        "dots"
+      ]
+    },
+    "poltergeist": {
+      "evidences": [
+        "spiritbox",
+        "fingerprints",
+        "writing"
+      ]
+    },
+    "revenant": {
+      "evidences": [
+        "ghostorbs",
+        "writing",
+        "freezing"
+      ]
+    },
+    "shade": {
+      "evidences": [
+        "emf",
+        "writing",
+        "freezing"
+      ]
+    },
+    "spirit": {
+      "evidences": [
+        "emf",
+        "spiritbox",
+        "writing"
+      ]
+    },
+    "wraith": {
+      "evidences": [
+        "emf",
+        "spiritbox",
+        "dots"
+      ]
+    },
+    "yokai": {
+      "evidences": [
+        "spiritbox",
+        "ghostorbs",
+        "dots"
+      ]
+    },
+    "yurei": {
+      "evidences": [
+        "ghostorbs",
+        "freezing",
+        "dots"
+      ]
+    }
+  }
+}
