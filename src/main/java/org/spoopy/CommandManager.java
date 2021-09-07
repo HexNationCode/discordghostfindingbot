@@ -31,7 +31,7 @@ public class CommandManager {
             }
         } catch(Exception e) {
             if (e.getClass().equals(ClassNotFoundException.class) || e.getClass().equals(NoSuchMethodException.class))
-               event.getChannel().sendMessage("Invalid command!");
+               event.getChannel().sendMessage("Are you fucking stupid? Invalid command!");
             else
                 System.out.println(e);
 
